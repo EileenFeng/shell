@@ -1,6 +1,4 @@
 ##Eileen Feng
-##Rose Lin
-##HW3
 
 ### Basic Structure of our shell
  - If user enters more than one commands, such as "ls ; pwd" or "emacs& emacs -nw&", the program loops to finish each commands separately
